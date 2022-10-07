@@ -12,7 +12,7 @@
 
     p(data-aos="fade-down").mb-5 A continuación, se presentan los tipos y características de los riesgos laborales.
 
-    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-right")
       LineaTiempoC.color-primario(text-small)
         .row.justify-content-center.align-items-start(titulo="Paso 1")
           .col-lg-4

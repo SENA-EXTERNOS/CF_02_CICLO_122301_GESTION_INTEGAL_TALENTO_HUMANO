@@ -37,7 +37,7 @@
     p(data-aos="fade-down").mb-5 La herramienta de recolección de datos, en primera medida, es el Excel, usada para el diseño de formatos y, de acuerdo con las necesidades, desarrollar el material requerido (Bernal & Naranjo, 2019). A continuación, se presentan los instrumentos de recolección de información y tipos de pruebas de tamizaje:
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-6
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-secundario
           .row.justify-content-center.align-items-center(numero="1" titulo="Evaluación")
             .col-12
               p de estándares mínimos para Sistema general de riesgos: Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019. 
