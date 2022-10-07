@@ -8,7 +8,7 @@
       h1 Peligros y riesgos laborales
     .bg2-1
       p(data-aos="fade-down") Bajo cualquier actividad laboral se presentan riesgos y peligros que pueden ocasionar accidentes o enfermedades laborales.
-      p(data-aos="fade-down") El peligro, es cualquier situación, elemento o comportamiento potencialmente dañino, es decir, que puede generar una enfermedad o lesión en la persona o personas involucradas; o puede generar daños en bienes, infraestructura o maquinaria. Por otro lado, el riesgo está asociado a lo que puede ocurrir si no se controla el peligro, es decir, es la combinación de la probabilidad y la consecuencia de un peligro ignorado.
+      p(data-aos="fade-down") El #[b peligro], es cualquier situación, elemento o comportamiento potencialmente dañino, es decir, que puede generar una enfermedad o lesión en la persona o personas involucradas; o puede generar daños en bienes, infraestructura o maquinaria. Por otro lado, el #[b riesgo] está asociado a lo que puede ocurrir si no se controla el peligro, es decir, es la combinación de la probabilidad y la consecuencia de un peligro ignorado.
       .row.justify-content-center.align-items-center          
         .col-lg-12.up
           p(data-aos="fade-down").mb-5 A continuación, se presentan los tipos y características de los riesgos laborales.
