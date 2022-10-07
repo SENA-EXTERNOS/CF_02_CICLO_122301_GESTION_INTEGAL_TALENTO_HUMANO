@@ -68,7 +68,7 @@
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-3.up
           .bgp.p-1(data-aos="fade-right")
-            h5(data-aos="fade-down").mb-0 Valoración de riesgos 
+            h4(data-aos="fade-down").mb-0 Valoración de riesgos 
 
       .row.justify-content-center.align-items-start.mb-2           
         .col-lg-2.my3
@@ -170,7 +170,10 @@
                   span 6
                 p.mb-0 Los turnos manejados para el cargo, si son rotativos, la jornada laboral. 
 
-            p El mapa permite dar prioridad al manejo de los riesgos dentro del área.
+              li 
+                .lista-ol--cuadro__vineta.bgv
+                  span 7
+                p.mb-0 El mapa permite dar prioridad al manejo de los riesgos dentro del área.
  
         
           .col-lg-5

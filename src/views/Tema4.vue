@@ -53,7 +53,7 @@
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-3
         .bgp.p-1(data-aos="fade-right")
-          h5(data-aos="fade-down").mb-0 Tipos de Diagnóstico
+          h4(data-aos="fade-down").mb-0 Tipos de Diagnóstico
 
     p(data-aos="fade-down").mb-5 Se pueden realizar diferentes tipos de diagnóstico de acuerdo con las necesidades de la empresa. 
     .row.justify-content-end.align-items-center.mb-5           
@@ -71,7 +71,7 @@
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-3
         .bgp.p-1(data-aos="fade-right")
-          h5(data-aos="fade-down").mb-0 Instrumentos de diagnóstico
+          h4(data-aos="fade-down").mb-0 Instrumentos de diagnóstico
 
     .row.justify-content-center.align-items-start.mb-2           
       .col-lg-2.my3
@@ -80,7 +80,7 @@
         p(data-aos="fade-down").mb-0 Los instrumentos de diagnóstico permiten recolectar información relevante sobre los aspectos clave que se pretende analizar, por este motivo es importante la estructuración (cómo se desarrolla), los métodos de pregunta a utilizar (define la temática y la forma de redactar la pregunta) y la comprensión de la información (la persona a quien se aplique el instrumento debe tener claro lo que se pregunta y que se espera encontrar). A continuación, se evidencian los procedimientos y diseños de la entrevista, la encuesta y el cuestionario. 
 
     TabsB.color-acento-contenido.my-5
-      .py-4.py-md-5(titulo="Animaciones" :icono="require('@/assets/curso/temas/img44.svg')")
+      .py-4.py-md-5(titulo="Entrevista" :icono="require('@/assets/curso/temas/img44.svg')")
         .row.justify-content-center.align-items-start
           .col-lg-7
             p Es la conversación dirigida entre dos o más personas para alcanzar un objetivo, donde las preguntas son estructuradas para obtener respuestas específicas de un tema clave.
@@ -99,12 +99,12 @@
             p.ps-4 #[b a.]  Las preguntas cerradas limitan las posibilidades de respuesta.
             p.ps-4 #[b b.]  Las preguntas abiertas brindan la oportunidad al entrevistado de describir de manera detallada la pregunta.
 
-            p.ps-4 El poder cuantificar las opciones de respuesta permite manejar de una forma objetiva la información que se recibe.
+            p El poder cuantificar las opciones de respuesta permite manejar de una forma objetiva la información que se recibe.
 
           .col-lg-4
             img(src="@/assets/curso/temas/img47.png" alt="")
 
-      .py-4.py-md-5(titulo="Dibujos animados" :icono="require('@/assets/curso/temas/img45.svg')")
+      .py-4.py-md-5(titulo="Encuesta" :icono="require('@/assets/curso/temas/img45.svg')")
         .row.justify-content-center.align-items-start
           .col-lg-7
             p Las encuestas son otro método de recolección de información que permite conocer las preferencias, gustos, opiniones o comentarios de los participantes sobre temas específicos.
@@ -126,7 +126,7 @@
           .col-lg-4
             img(src="@/assets/curso/temas/img48.png" alt="")
 
-      .py-4.py-md-5(titulo="Plasmación" :icono="require('@/assets/curso/temas/img46.svg')")
+      .py-4.py-md-5(titulo="Cuestonarios" :icono="require('@/assets/curso/temas/img46.svg')")
         .row.justify-content-center.align-items-start
           .col-lg-7
             p El cuestionario es un conjunto de preguntas, ya sean de tipo abierto o cerrado, que los participantes deben resolver de acuerdo con su conocimiento o experiencia sobre el tema.

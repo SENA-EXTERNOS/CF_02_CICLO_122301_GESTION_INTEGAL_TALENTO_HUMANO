@@ -17,9 +17,9 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.png', alt='') 
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-3
+        .col-lg-4
           .bgp.p-1(data-aos="fade-right")
-            h5(data-aos="fade-down").mb-0 Normatividad y campo de aplicación
+            h4(data-aos="fade-down").mb-0 Normatividad y campo de aplicación
 
       .row.justify-content-center.align-items-start.mb-2           
         .col-lg-2.my3
@@ -110,7 +110,7 @@
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-5
         .bgp.p-1(data-aos="fade-right")
-          h5(data-aos="fade-down").mb-0 Elementos y equipos de protección personal
+          h4(data-aos="fade-down").mb-0 Elementos y equipos de protección personal
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-2

@@ -21,7 +21,7 @@
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-3
           .bgp.p-1(data-aos="fade-right")
-            h5(data-aos="fade-down").mb-0 Grupos Etáreos
+            h4(data-aos="fade-down").mb-0 Grupos Etáreos
 
       p(data-aos="fade-down").mb-5 Los grupos se crean de acuerdo con la naturaleza de la empresa, las especificaciones del cargo y las áreas en las cuales el colaborador deberá desarrollar sus funciones. Dentro del Decreto 1477 de 2014 y la actualización realizada en el decreto 676 de 2020. A continuación, se presenta una tabla con las distribuciones de enfermedades laborales.
       .row.justify-content-center.align-items-center.mb-5           
