@@ -1,47 +1,51 @@
 .banner-principal-decorativo
   &-6
-    animation: float1 1.6s ease-in-out infinite alternate
+    animation: float1 s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
+    display: none
   &-5
     animation: float1 1.5s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
   &-4
     animation: float1 1.4s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
   &-3
     animation: float1 1.3s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
   &-2
     animation: float1 1.2s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
   &-1
     animation: float1 1s ease-in-out infinite alternate
     position: absolute
     top: 60%
-    right: 80%
+    right: 95%
   &-7
     animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
+    width: 20%
     top: 35%
-    right: 75%                    
+    right: 85%                    
   &-8
     animation: float3 2.8s ease-in-out infinite alternate
     position: absolute
+    width: 20%
     top: 10%
     right: 15%
   &-9
     animation: float4 3.8s ease-in-out infinite alternate
     position: absolute
+    width: 20%
     top: 50%
     right: 12% 
 
@@ -80,6 +84,7 @@
 	100% 
 		transform: rotate(-180deg) translateX(-20px) rotate(180deg)  
 
+
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/10.png") !important
 .img-a 
@@ -94,9 +99,10 @@
   background-color: #FDF2C5
 
 .bgp
-  background: linear-gradient(263deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 72%, rgba(247,202,46,1) 87%, rgba(247,202,46,1) 88%, rgba(247,202,46,1) 90%, rgba(247,202,46,1) 92%, rgba(247,202,46,1) 94%, rgba(247,202,46,1) 96%, rgba(247,202,46,1) 98%, rgba(247,202,46,1) 100%)
+  background: linear-gradient(263deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 72%, rgba(247,202,46,1) 87%, rgba(247,202,46,1) 88%, rgba(247,202,46,1) 90%, rgba(247,202,46,1) 92%, rgba(247,202,46,1) 94%, rgba(247,202,46,1) 96%, rgba(247,202,46,1) 98%, rgba(247,202,46,1) 100%); 
   border-radius: 5px 
-
+  -webkit-backdrop-filter: blur(1px)
+  backdrop-filter: blur(1px)
 .cajon.color-primario
   background-color: #D9CCEF 
 

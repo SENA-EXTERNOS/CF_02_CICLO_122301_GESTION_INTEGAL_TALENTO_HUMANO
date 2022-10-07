@@ -150,7 +150,10 @@
           .col-lg-4
             img(src="@/assets/curso/temas/img49.png" alt="")
   
-
+    .row.justify-content-center.align-items-center      
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
 </template>
 
 <script>

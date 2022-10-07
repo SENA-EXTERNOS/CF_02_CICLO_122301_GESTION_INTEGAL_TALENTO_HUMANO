@@ -66,7 +66,7 @@
                   p.mt-5 #[b Riesgo psicosocial], el mantener al individuo expuesto a situaciones estresantes, desgastantes, generan algún tipo de afectación personal, mental y emocional que pueden desencadenar depresiones o episodios de ansiedad.
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-3.up
+        .col-lg-3
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Valoración de riesgos 
 
