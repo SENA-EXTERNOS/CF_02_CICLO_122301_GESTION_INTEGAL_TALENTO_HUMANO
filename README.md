@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF_02_CICLO_122301_GESTION_INTEGAL_TALENTO_HUMANO/#/](https://sena-externos.github.io/CF_02_CICLO_122301_GESTION_INTEGAL_TALENTO_HUMANO/#/)
 
 #
 
