@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Seguridad y salud en el trabajo',
     descripcionCurso:
       'La seguridad y salud en el trabajo es un tema que ha tomado fuerza en la actualidad ya que, si es desarrollado de manera adecuada, permite reducir costos por eventualidades que puedan afectar no solo el bienestar integral de los empleados en una organización, sino la infraestructura empresarial.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

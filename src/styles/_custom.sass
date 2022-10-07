@@ -33,17 +33,17 @@
     animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
     top: 35%
-    right: 70%                    
+    right: 75%                    
   &-8
     animation: float3 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 15%
-    right: 20%
+    top: 10%
+    right: 15%
   &-9
     animation: float4 3.8s ease-in-out infinite alternate
     position: absolute
-    top: 55%
-    right: 10%        
+    top: 50%
+    right: 12%        
 
 
 @keyframes float1
@@ -119,6 +119,22 @@
     width: calc( 100% + 96px )
     height: 100%       
     background-image: url('../assets/curso/temas/img15.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
+
+.bg1-1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/img15-1.png')
     background-size: 100% auto  
     background-repeat: no-repeat
     background-position: center top  
@@ -241,6 +257,24 @@
     background-repeat: no-repeat
     background-position: center top  
 
+.bg2-1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/img28-1.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top      
+
+.up
+  z-index: 2
 
 .tarjeta.color-secundario
   background-color: #F6F6F6
@@ -252,8 +286,11 @@
 .tabs-c__tab--active
   font-weight: bold  
 
-.tabs-c__tab--active::before
-  border-top: 0px 
+.sp
+  font-size: 20px
+  font-weight: bold
+  color: #B13E8D
+
 .tabs-c__content-item       
   border: 1px solid #E8E8E8 !important
 .tabs-c__header
@@ -283,6 +320,9 @@
   border-radius: 4px
   color: $color-sistema-texto
   font-weight: bold
+
+.bgv
+  background-color: #F7CA18
 
 .tabs-b.color-acento-contenido .tabs-b__tab--active
   border-top-color: #F7F4FF !important
