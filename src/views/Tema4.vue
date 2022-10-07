@@ -16,44 +16,39 @@
       .col-lg-8
         SlyderF.custom.mb-5(columnas="col-lg-6")(data-aos="fade-left")
           .tarjeta.tarjeta--slyder.p-4
+            p.mb-0.sp A
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/img38.svg", alt="alt").img100.m-auto     
-            p.text-center.mb-0 
-              span.sp A. 
-              span Caracterización de la empresa (a qué se dedica, historia, etc.)
+            p.text-center.mb-0 Caracterización de la empresa (a qué se dedica, historia, etc.)
 
           .tarjeta.tarjeta--slyder.p-4
+            p.mb-0.sp B          
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t.mb-3(src="@/assets/curso/temas/img39.svg", alt="alt").img100.m-auto        
-            p.text-center.mb-0 
-              span.sp B. 
-              span Organigrama que permite conocer la conformación de la empresa, áreas y puestos de trabajo, porte y cumplimiento de EEP.
+            p.text-center.mb-0 Organigrama que permite conocer la conformación de la empresa, áreas y puestos de trabajo, porte y cumplimiento de EEP.
 
           .tarjeta.tarjeta--slyder.p-4
+            p.mb-0.sp C          
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/img40.svg", alt="alt").img100.m-auto       
-            p.text-center.mb-0 
-              span.sp C. 
-              span Señalizaciones por área. (zonas de trabajo, zonas de descanso, manejo de material, salidas, botiquines, etc.)
+            p.text-center.mb-0 Señalizaciones por área. (zonas de trabajo, zonas de descanso, manejo de material, salidas, botiquines, etc.)
 
           .tarjeta.tarjeta--slyder.p-4
+            p.mb-0.sp D          
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t.mb-3(src="@/assets/curso/temas/img41.svg", alt="alt").img100.m-auto       
-            p.text-center.mb-0 
-              span.sp D. 
-              span Jerarquización de los riesgos.
+            p.text-center.mb-0 Jerarquización de los riesgos.
 
           .tarjeta.tarjeta--slyder.p-4
+            p.mb-0.sp E          
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t.mb-3(src="@/assets/curso/temas/img42.svg", alt="alt").img100.m-auto       
-            p.text-center 
-              span.sp E. 
-              span Realización de un estudio sociodemográfico y de morbilidad sentida, este paso busca conocer las condiciones de seguridad y salud de los empleados con descripción sociodemográfica y antecedentes de salud relevantes con descripción en caso de padecer alguna enfermedad.   
+            p.text-center Realización de un estudio sociodemográfico y de morbilidad sentida, este paso busca conocer las condiciones de seguridad y salud de los empleados con descripción sociodemográfica y antecedentes de salud relevantes con descripción en caso de padecer alguna enfermedad.   
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-3
