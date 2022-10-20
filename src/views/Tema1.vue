@@ -93,10 +93,10 @@
                 .col-lg-3
                   img.img-a.img-t(src='@/assets/curso/temas/img10.svg', alt='')
                 .col-lg-9          
-                  h4.mb-2 Decreto 1443 de 2014
-                  p Por medio del cual el Ministerio de Trabajo plantea disposiciones para la implementación del SG-SST.
+                  h4.mb-2 Decreto 052 de 2017
+                  p Por medio del que se modifica el #[b Art. 2.2.4.6.37 del Decreto 1072 de 2015], la transición para la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).
 
-                  p.mb-0 Para conocer a profundidad este decreto lo invitamos a explorar el material complementario.  
+                  p.mb-0 Para conocer a profundidad este decreto lo invitamos a explorar el material complementario.   
             .tarjeta.color-primario.p-3(x="75.5%" y="91.5%" numero="")
               .row.justify-content-center.align-items-center       
                 .col-lg-3

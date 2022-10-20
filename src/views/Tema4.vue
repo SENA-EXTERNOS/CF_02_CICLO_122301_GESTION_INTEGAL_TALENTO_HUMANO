@@ -69,7 +69,7 @@
             p.mb-0 #[b Diagnóstico de procesos:] en caso de requerirse evaluar un proceso y su adecuado funcionamiento, se recomienda analizar los aspectos relevantes del mismo, como las personas que los ejercen, las funciones y resultados de los procesos o actividades. 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-3
+      .col-lg-4
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Instrumentos de diagnóstico
 

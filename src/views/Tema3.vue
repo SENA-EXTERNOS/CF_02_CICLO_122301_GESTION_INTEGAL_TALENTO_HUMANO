@@ -101,7 +101,7 @@
             .tarjeta.color-secundario.p-3(x="70%" y="33%" numero="")
               p.mb-0 Realizar una evaluación posterior que arroje datos sobre la efectividad de las acciones. 
             .tarjeta.color-secundario.p-3(x="84%" y="63%" numero="")
-              p.mb-0 Realizar una evaluación posterior que arroje datos sobre la efectividad de las acciones. 
+              p.mb-0 Realizar actualizaciones en caso de requerirse.
 
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-2
@@ -114,7 +114,7 @@
       .py-3.py-md-4(titulo="Métodos de manejo")
         .row.justify-content-center.align-items-start.py-4
           .col-lg-6
-            h5 Métodos de manejo
+
             p Los métodos de manejo dependen de los índices de presencia de riesgos, en este caso pueden ser:
             ol.lista-ol--cuadro
               li 
@@ -137,7 +137,7 @@
       .py-3.py-md-4(titulo="Métodos de identificación")
         .row.justify-content-center.align-items-start.py-4
           .col-lg-6
-            h5 Métodos de identificación
+
             p Es una herramienta que permite conocer y diseñar medidas preventivas para el manejo de los riesgos laborales corresponde al Mapa de riesgos, que como se desarrolla en la evaluación de riesgos, es importante:
             ol.lista-ol--cuadro
               li 
@@ -181,7 +181,7 @@
       .py-3.py-md-4(titulo="Autorreportes")
         .row.justify-content-center.align-items-start.py-4
           .col-lg-6
-            h5 Autorreportes
+
             p Estos son informes desarrollados por el empleado, pues es la persona que mejor conoce su puesto de trabajo, en él plantea, desde su perspectiva, las problemáticas existentes dentro de su cargo al ejecutar sus funciones y del ambiente laboral en el que lo desarrolla.  
         
           .col-lg-5
@@ -203,7 +203,7 @@
       .py-3.py-md-4(titulo="Normatividad")
         .row.justify-content-center.align-items-start.py-4
           .col-lg-6
-            h5 Normatividad
+
             p La verificación de los cumplimientos y verificación del Sistema de Riesgos Laborales se desarrolla con base a la Ley 1562 de 2012. 
         
           .col-lg-5

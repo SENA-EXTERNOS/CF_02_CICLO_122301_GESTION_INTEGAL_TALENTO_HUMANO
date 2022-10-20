@@ -287,8 +287,6 @@ export default {
     {
       referencia:
         'Ministerio de Trabajo, Empleo y Seguridad Social, (2014). Salud y seguridad en el trabajo (SST): <i>Aportes para una cultura de la prevención.</i>',
-      link:
-        'https://www.ilo.org/wcmsp5/groups/public/@americas/@ro-lima/@ilo-uenos_aires/documents/publication/wcms_248685.pdf',
     },
     {
       referencia:
