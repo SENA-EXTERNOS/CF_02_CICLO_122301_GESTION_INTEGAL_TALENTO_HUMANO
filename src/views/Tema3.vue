@@ -189,7 +189,6 @@
       .py-3.py-md-4(titulo="Estrategias de prevención")
         .row.justify-content-center.align-items-start.py-4
           .col-lg-6
-            h5 Estrategias de prevención
             p Las estrategias de prevención son implementadas por el empleador por medio de entrega de las características del puesto, junto con los elementos de protección personal. 
             p Para garantizar una correcta utilización y porte de estos elementos, las organizaciones ofrecen  una capacitación de ingreso al cargo.
 
