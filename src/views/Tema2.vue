@@ -51,7 +51,7 @@
               p.mb-0 De exámenes médicos. 
           .row.justify-content-center.align-items-center(numero="6" titulo="Formato")
             .col-12
-              p.mb-0 Ee autorreporte de condiciones de salud. 
+              p.mb-0 De autorreporte de condiciones de salud. 
           .row.justify-content-center.align-items-center(numero="7" titulo="Matriz de peligros")
             .col-12
               p.mb-0 Basados en la Norma GTC 45.                                                                       
