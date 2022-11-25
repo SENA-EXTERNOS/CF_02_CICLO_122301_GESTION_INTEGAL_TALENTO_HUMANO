@@ -118,6 +118,12 @@
       .col-lg-10
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La empresa, de acuerdo con las características del cargo y las funciones por desarrollar, determina las necesidades de elementos, equipos o vestimenta que pueda reducir la posibilidad de ocurrencias de accidentes con los riesgos existentes, que sean adecuados para el ambiente laboral en el que se utilizarán, que aplique y funcione para las necesidades ergonómicas y físicas del colaborador. A continuación, lo invitamos a ver el siguiente video donde abordaremos los elementos y equipos de protección personal: 
+
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 </template>
 
 <script>
