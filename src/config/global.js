@@ -129,49 +129,49 @@ export default {
   },
   complementario: [
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 768 de 2022 [Ministerio del trabajo] Actualización de Tabla de clasificación de Actividades económicas para el sistema general de riesgos laborales. 16 de mayo de 2022.',
       tipo: 'Decreto',
       descarga: '/downloads/3_decreto-768-del-16-de-mayo-de-2022.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 1347 de 2021 [Ministerio del trabajo] Adopción por parte de las empresas del Programa de prevención de accidentes mayores (PPAM), para incrementar niveles de seguridad en las instalaciones clasificadas.26 de octubre de 2021.',
       tipo: 'Decreto',
       descarga: '/downloads/4_DECRETO-1347-DEL-26-DE-OCTUBRE-DE-2021.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 052 de 2017 [Ministerio del trabajo] Se modifica Art. 2.2.4.6.37 Del Decreto 1072 de 2015, para la transición para la implementación del SG-SST.',
       tipo: 'Decreto',
       descarga: '/downloads/5_DECRETO_0052_DE_2017.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 1072 de 2015 [Ministerio del trabajo] Es la implementación del SG-SST siendo de obligatorio cumplimiento. 26 de mayo de 2015.',
       tipo: 'Decreto',
       descarga: '/downloads/6_Decreto_1072_15_de_abril_de_2016.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 1443 de 2014 [Ministerio del trabajo] Planteamiento de disposiciones para la implementación del SG-SST. 31 de julio de 2014.',
       tipo: 'Decreto',
       descarga: '/downloads/7_decreto1443_2014.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Ley 1562 de 2012 Por la cual se busca modificar el Sistema de riesgos laborales. 11 de julio de 2012. DO Ni 48.488.',
       tipo: 'Ley',
       descarga: '/downloads/2_LeynNon1562___22608c8cf830c8a___.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Peligros y riesgos laborales',
       referencia:
         'Resolución 0312 de 2019 [Ministerio del trabajo] Modificar las fases de implementación del SG-SST y nuevo plazo de adecuación. 13 de febrero de 2019.',
       tipo: 'Resolución',
@@ -179,7 +179,7 @@ export default {
         '/downloads/1_Resolucion_0312-2019-_Estandares_minimos_del_Sistema_de_la_Seguridad_y_Salud.pdf',
     },
     {
-      tema: 'Normatividad y campo de aplicación',
+      tema: 'Peligros y riesgos laborales',
       referencia:
         'Resolución 2644 de 2016 [Servicio nacional de aprendizaje SENA] Sobre la ropa de trabajo y Elementos de protección personal. 2 de diciembre de 2016.',
       tipo: 'Resolución',
@@ -254,19 +254,7 @@ export default {
     },
     {
       referencia:
-        'Decreto 768 de 2022 [Ministerio del trabajo]. Actualización de Tabla de clasificación de Actividades económicas para el sistema general de riesgos laborales. 16 de mayo de 2022.',
-    },
-    {
-      referencia:
-        'Decreto 1347 de 2021 [Ministerio del trabajo]. Adopción por parte de las empresas del Programa de prevención de accidentes mayores (PPAM), para incrementar niveles de seguridad en las instalaciones clasificadas.26 de octubre de 2021. ',
-    },
-    {
-      referencia:
         'Decreto 052 de 2017 [Ministerio del trabajo]. Se modifica Art. 2.2.4.6.37 Del Decreto 1072 de 2015, para la transición para la implementación del SG-SST. ',
-    },
-    {
-      referencia:
-        'Decreto 1072 de 2015 [Ministerio del trabajo]. Es la implementación del SG-SST siendo de obligatorio cumplimiento. 26 de mayo de 2015.',
     },
     {
       referencia:
@@ -278,23 +266,11 @@ export default {
     },
     {
       referencia:
-        'Ley 1562 de 2012 Por la cual se busca modificar el Sistema de riesgos laborales. 11 de julio de 2012. DO N° 48.488.',
-    },
-    {
-      referencia:
         'Ministerio de salud y protección social. (2017). <i>Programa de elementos de protección personal, uso y mantenimiento.</i> ',
     },
     {
       referencia:
         'Ministerio de Trabajo, Empleo y Seguridad Social, (2014). Salud y seguridad en el trabajo (SST): <i>Aportes para una cultura de la prevención.</i>',
-    },
-    {
-      referencia:
-        'Resolución 2644 de 2016 [Servicio nacional de aprendizaje SENA]. Sobre la ropa de trabajo y Elementos de protección personal. 2 de diciembre de 2016.',
-    },
-    {
-      referencia:
-        'Resolución 0312 de 2019 [Ministerio del trabajo]. Modificar las fases de implementación del SG-SST y nuevo plazo de adecuación. 13 de febrero de 2019.',
     },
   ],
   creditos: {
