@@ -32,11 +32,11 @@
 
     p(data-aos="fade-down").mb-5 La herramienta de recolección de datos, en primera medida, es el Excel, usada para el diseño de formatos y, de acuerdo con las necesidades, desarrollar el material requerido (Bernal & Naranjo, 2019). A continuación, se presentan los instrumentos de recolección de información y tipos de pruebas de tamizaje:
     .row.justify-content-center.align-items-start.mb-5
-      .col-lg-6
+      .col-lg-7
         LineaTiempoD.color-secundario
           .row.justify-content-center.align-items-center(numero="1" titulo="Evaluación de estándares mínimos para Sistema general de riesgos")
             .col-12
-              p Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019.
+              p.mb-0 Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019.
           .row.justify-content-center.align-items-center(numero="2" titulo="Indicador de severidad")
             .col-12
               p.mb-0 Índice comparativo entre los días perdidos por un accidente de trabajo con las horas trabajadas.
@@ -55,7 +55,7 @@
           .row.justify-content-center.align-items-center(numero="7" titulo="Matriz de peligros")
             .col-12
               p.mb-0 Basados en la Norma GTC 45.
-      .col-lg-4
+      .col-lg-3.d-md-none.d-lg-inline
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img17.png', alt='')
 </template>
 
