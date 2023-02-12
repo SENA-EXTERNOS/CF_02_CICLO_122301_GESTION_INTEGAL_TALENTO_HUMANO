@@ -36,7 +36,7 @@
         LineaTiempoD.color-secundario
           .row.justify-content-center.align-items-center(numero="1" titulo="Evaluación de estándares mínimos para Sistema general de riesgos")
             .col-12
-              p.mb-0 Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019.
+              p Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019.
           .row.justify-content-center.align-items-center(numero="2" titulo="Indicador de severidad")
             .col-12
               p.mb-0 Índice comparativo entre los días perdidos por un accidente de trabajo con las horas trabajadas.
