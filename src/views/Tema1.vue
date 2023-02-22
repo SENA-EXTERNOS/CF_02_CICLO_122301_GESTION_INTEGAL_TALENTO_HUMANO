@@ -12,7 +12,7 @@
         .col-lg-8.my-3
           p(data-aos="fade-down") Los entornos laborales seguros son una de las prioridades en cualquier empresa, ya que el mantener a sus colaboradores les brindará un óptimo desempeño. En la medida en que el capital humano se encuentre en un ambiente seguro, evitará sobrecostos y posibles pérdidas que afecten el adecuado rendimiento laboral, junto con su imagen corporativa en el contexto productivo. Por lo tanto, aprenderemos sobre la normatividad enfocada en seguridad y salud en el trabajo.
           .cajon.color-acento-contenido.p-4(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 Para lograr la implementación del Sistema de Gestión y Seguridad en el Trabajo (SG - SST) se requiere como primera medida conocer la naturaleza de la empresa, posteriormente la empresa buscará el cumplimiento de la normatividad vigente y adicional el prevenir incidentes, accidentes o toda situación peligrosa en sus empleados. A continuación, podrá conocer y revisar parte de la normatividad planteada a nivel nacional y que se espera sea cumplida dentro de las empresas.
+            p(data-aos="fade-down").mb-0 Para lograr la implementación del Sistema de Gestión y Seguridad en el Trabajo (SG - SST) se requiere como primera medida conocer la naturaleza de la empresa, posteriormente la empresa buscará el cumplimiento de la normatividad vigente y adicional el prevenir incidentes, accidentes o toda situación peligrosa en sus empleados. A continuación, podrá conocer y revisar parte de la normatividad planteada a nivel nacional y que se espera sea cumplida dentro de las empresas:
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.png', alt='')
 

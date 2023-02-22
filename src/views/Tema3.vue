@@ -146,7 +146,7 @@
               li
                 .lista-ol--cuadro__vineta.bgv
                   span 1
-                p.mb-0 La delimitación de la zona, área o cargo, especificando características
+                p.mb-0 La delimitación de la zona, área o cargo, especificando características.
 
               li
                 .lista-ol--cuadro__vineta.bgv

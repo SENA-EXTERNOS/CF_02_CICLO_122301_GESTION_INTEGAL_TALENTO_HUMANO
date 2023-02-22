@@ -105,7 +105,6 @@
           .col-lg-7
             p Las encuestas son otro método de recolección de información que permite conocer las preferencias, gustos, opiniones o comentarios de los participantes sobre temas específicos.
             h4 Procedimiento
-            p Para la realización de una encuesta es importante:
             p.ps-4 #[b a.]  Tener claridad sobre lo que se desea investigar o conocer.
             p.ps-4 #[b b.]  Reconocer que existen varios programas que ofrecen diferentes tipos de preguntas.
             p.ps-4 #[b c.]  Conocer el medio por el cual se enviará o se aplicará la encuesta (presencial, en línea o por correo electrónico).
