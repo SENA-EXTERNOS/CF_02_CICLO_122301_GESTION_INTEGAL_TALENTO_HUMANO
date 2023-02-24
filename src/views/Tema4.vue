@@ -127,14 +127,12 @@
             p El cuestionario es un conjunto de preguntas, ya sean de tipo abierto o cerrado, que los participantes deben resolver de acuerdo con su conocimiento o experiencia sobre el tema.
             p Estos pueden estructurarse de acuerdo con las necesidades de la población, datos demográficos, formas de pensar (manejo subjetivo de la información como gustos u opiniones respecto a un tema), comportamientos, formas de actuar ante determinadas situaciones y por último de conocimiento.
             h4 Procedimiento
-            p Para la realización de una encuesta es importante:
             p.ps-4 #[b a.]  Lo primero que se debe aclarar es el tipo de investigación objetivo, si es cualitativa (no estructurado) o cuantitativa (datos estructurados), estos últimos son los más utilizados para validar algún tipo de información.
             p.ps-4 #[b b.]  Describir la información que se necesita y las características de los participantes para la estructuración de las preguntas.
             p.ps-4 #[b c.]  Estructurar las preguntas de acuerdo con las necesidades. Se pueden establecer preguntas de opción múltiple con única respuesta, preguntas tipo escala, preguntas abiertas o preguntas cerradas.
             p.ps-4 #[b d.]  Determinar la cantidad de preguntas por desarrollar.
             p.ps-4 #[b e.]  Redactar preguntas claras, sin palabras rebuscadas o que puedan tener varios significados.
             h4 Diseño
-            p Para el diseño de una encuesta es necesario:
             p.ps-4 #[b a.] Describir la información que se aspira alcanzar con el instrumento.
             p.ps-4 #[b b.] Estructurar un texto introductorio sobre las preguntas que se desarrollarán.
             p.ps-4 #[b c.] Tener cuidado de redactar las preguntas de forma neutral, sin generar algún tipo de dirección a la respuesta.
