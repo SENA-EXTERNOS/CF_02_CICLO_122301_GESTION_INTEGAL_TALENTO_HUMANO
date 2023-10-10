@@ -34,7 +34,7 @@
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-7
         LineaTiempoD.color-secundario
-          .row.justify-content-center.align-items-center(numero="1" titulo="Evaluación de estándares mínimos para Sistema general de riesgos")
+          .row.justify-content-center.align-items-center(numero="1" titulo="Evaluación de estándares mínimos para sistema general de riesgos")
             .col-12
               p.mb-0 Autoevaluación del sistema de gestión para el cumplimiento de estándares mínimos de acuerdo con la Resolución 0312 de 2019.
           .row.justify-content-center.align-items-center(numero="2" titulo="Indicador de severidad")

@@ -198,7 +198,7 @@ export default {
     },
     {
       termino: 'EPP',
-      significado: 'Elementos de Protección Personal',
+      significado: 'elementos de protección personal',
     },
     {
       termino: 'Enfermedad',
