@@ -17,19 +17,19 @@
 
           .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-right")
             LineaTiempoC.color-primario(text-small)
-              .row.justify-content-center.align-items-start(titulo="Paso 1")
+              .row.justify-content-center.align-items-start(titulo="a")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img19.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgos físicos], cualquier manifestación de la energía en el ambiente laboral, se puede clasificar como:
 
-              .row.justify-content-center.align-items-start(titulo="Paso 2")
+              .row.justify-content-center.align-items-start(titulo="b")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img20.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgo mecánico], este puede ser producido por la maquinaria o del funcionamiento de esta, como por ejemplo el ruido, vibraciones, pesos, etc.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 3")
+              .row.justify-content-center.align-items-start(titulo="c")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img21.png', alt='')
                 .col-lg-6
@@ -37,31 +37,31 @@
 
                   p #[b Riesgos con otros tipos de energía], exposición como por ejemplo radiación, radiofrecuencias, entre otros.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 4")
+              .row.justify-content-center.align-items-start(titulo="d")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgos químicos], presencia en el ambiente laboral de agentes o contaminantes, que pueden estar en forma sólida, líquida o gaseosa, que puede generar afectaciones por exposición o sobre exposición con el empleado, como por ejemplo agentes corrosivos, disolventes, etc.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 5")
+              .row.justify-content-center.align-items-start(titulo="e")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgos ergonómicos], el cual corresponde a la adaptación del empleado a su puesto de trabajo, se evalúa partiendo de las características físicas del empleado, adaptando así la altura de la silla, distancia entre equipos, altura de elementos, etc. Cuando alguna de estas valoraciones se ven afectadas, pueden generar riesgos en la salud del individuo.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 6")
+              .row.justify-content-center.align-items-start(titulo="f")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img24.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgos biológicos], es la exposición con microorganismos como bacterias, virus y demás agentes dañinos, que pueden desencadenar enfermedades.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 7")
+              .row.justify-content-center.align-items-start(titulo="g")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img25.png', alt='')
                 .col-lg-6
                   p.mt-5 #[b Riesgo eléctrico], exposición del cuerpo a corrientes eléctricas que pueden desencadenar hasta la muerte.
 
-              .row.justify-content-center.align-items-start(titulo="Paso 8")
+              .row.justify-content-center.align-items-start(titulo="h")
                 .col-lg-4
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img26.png', alt='')
                 .col-lg-6
